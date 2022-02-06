@@ -34,6 +34,6 @@ The execution times of the refactored code are significantly faster than those o
 
 
 ## Summary
-If done correctly, there should not be any disadvantages to refactoring code as it should be cleaner (more readable) and more efficient (faster), without sacrificing results (archives the same outcomes as the original code). If done incorrectly, a possible disadvantage of refactoring code could be to sacrifice readability for efficiency (i.e. faster but hard to follow) or to inadvertently change the logic of the code (the refactored code yields incorrect results).  
+If done correctly, there should not be any disadvantages to refactoring code as it should be cleaner (more readable) and more efficient (faster), without sacrificing results (achieves the same outcomes as the original code). If done incorrectly, a possible disadvantage of refactoring code could be to sacrifice readability for efficiency (i.e. faster but hard to follow) or to inadvertently change the logic of the code (the refactored code yields incorrect results).  
 
-The run time and readability of the refactored code is better than that of the original script. Additionally, the output/result is the same as the one from the original code. As such, refactoring the original VBA script helped us have a cleaner and more efficient code (no disadvantages).  
+The run time and readability of the refactored code in this challenge is better than that of the original script. Additionally, the output/result is the same as the one from the original code. As such, refactoring the original VBA script helped us have a cleaner and more efficient code (no disadvantages).  
