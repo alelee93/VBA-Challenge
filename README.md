@@ -6,7 +6,7 @@ The main goal of this project is to refactor a VBA script to make it more effici
 ## Results
 
 ### Stock Analysis
-In general, 2017 returns were higher than those of 2018.  The only exceptions were the RUN (+78% higher return) and TERP (2% higher return) stocks, which performed better in 2018 than in 2017. Something to note is that while TERP’s return increased, it is still negative in 2018 (it went from -7.2% to -5%). On the other hand, the RUN stock went from a 5% return in 2017 to an 81.0% return in 2018. Another stock to note is the ENPH, while the return of this stock decreased by 48% between 2017 and 2018, its 2018 returns are still positive at 81.9%
+In general, 2017 returns were higher than those of 2018.  The only exceptions were the RUN (+78% higher return) and TERP (2% higher return) stocks, which performed better in 2018 than in 2017. Something to note is that while TERP’s return increased, it is still negative in 2018 (it went from -7.2% to -5%). On the other hand, the RUN stock went from a 5.5% return in 2017 to an 84% return in 2018. Another stock to note is the ENPH, while the return of this stock decreased by 48% between 2017 and 2018, its 2018 returns are still positive at 81.9%
 
 ### Refactored Script Performance
 
