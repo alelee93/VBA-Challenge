@@ -15,6 +15,10 @@ The execution times of the refactored code is significantly faster than that of 
 
 ### Run times from original script
 
+![original_runtime_2018](https://user-images.githubusercontent.com/61717854/152666509-a7922abe-f5a3-4e03-b51a-aa0a2fa12bdd.PNG)
+
+![original_runtime_2017](https://user-images.githubusercontent.com/61717854/152666512-da6bc328-f34b-41f5-b3b5-9c71f3e18490.PNG)
+
 
 ## Summary
 If done correctly, there should not be any disadvantages to refactoring code as it should be cleaner (more readable) and more efficient (faster), without sacrificing results (archives the same outcomes as the original code). If done incorrectly, a possible disadvantage of refactoring code could be to sacrifice readability for efficiency (i.e. faster but hard to follow) or to inadvertently change the logic of the code (the refactored code yields incorrect results).  
