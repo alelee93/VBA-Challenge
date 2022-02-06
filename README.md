@@ -10,7 +10,7 @@ In general, 2017 returns were higher than those of 2018.  The only exceptions we
 
 ### Refactored Script Performance
 
-The execution times of the refactored code is significantly faster than that of the original code. This is a result of using [arrays](https://stackoverflow.com/questions/33302962/performance-difference-between-looping-range-vs-looping-array) in the code to store information.  
+The execution times of the refactored code is significantly faster than that of the original code. This is a result of using [arrays](https://docs.microsoft.com/en-us/office/vba/language/concepts/getting-started/using-arrays) in the code to store and retrieve information. More specifically, the original code used "Double" type variables to store the starting price, ending price, and volume of each ticker. Through a nested loop the variables would get the correct values for each ticker, but at a very costly "run-time" as the inner loop with if statement calculations had to run for each ticker. In the refactored code, we used arrays to store the starting price, ending price, and volume of each ticker. This allowed us to use a simple for loop to store these values in the array for each ticker. To output the values, we simply created another for loop, retrieiving the data from the arrays.
 
 ### Run times from refactored code
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/61717854/152666046-14cc4915-e0d9-4349-a3e4-3fdd69153470.PNG)
